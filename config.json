@@ -1,0 +1,10 @@
+{
+    "apiKey": "INSERT_YOUR_API_KEY_HERE",
+    "serviceThrottling": 1000,
+    "apiUrl": "https://eune.api.pvp.net/api/lol/",
+    "staticDataPrefix": "static-data/",
+    "apiRegion": "eune",
+    "matchApiUrl": "/v2.2/match/",
+    "championApiUrl": "/v1.2/champion/",
+    "challengeApiUrl": "/v4.1/game/ids"
+}
